@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="" href="/styles/style.css">
-</head>
-<body>
-    <header>
+{/* <header>
         <nav>
             <div class="left">
               <p>КАТАЛОГ</p>
@@ -28,7 +18,7 @@
           </nav>
           <section class="presentation first">
             <div class="product-presentation">
-                <h1>lover <br> flower</h1>
+                <h1>loverr <br> flower</h1>
                 <p>Создаём для тех, кто ценит свежесть и изящество цветка</p>
             </div>
             <button>смотреть каталог</button>
@@ -37,6 +27,4 @@
                 <p>заказать звонок</p>
             </div>
           </section>  
-    </header>
-</body>
-</html>
+    </header> */}
