@@ -1,17 +1,27 @@
 header.root {
-    background: #282828;
-    ul.list {
-        li {
-            a.l{
-                font-style: normal;
-                font-weight: 400;
-                font-size: 14px;
-                line-height: 21px;
-                letter-spacing: 0.04em;
-                text-transform: uppercase;
-                text-decoration: none;
-                color: #fff;
+    background: #040A0A;
+    .header_block{
+        display: flex;
+        background: url("../../logo.png") no-repeat;
+        nav {
+            margin-left: 69px;
+            ul.list {
+                display: flex;
+                li {
+                    list-style-type: none;
+                    margin-right: 50px;
+                    a.l{
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 21px;
+                        letter-spacing: 0.04em;
+                        text-transform: uppercase;
+                        text-decoration: none;
+                        color: #fff;
+                    }
                 }
             }
         }
+    }
 }
