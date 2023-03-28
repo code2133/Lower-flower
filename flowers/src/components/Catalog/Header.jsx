@@ -1,7 +1,7 @@
 import React from "react";
 import {Link,Router} from "react-router-dom";
 
-import style from './Header.module.sass';
+import style from './Header.module.scss';
 
 export const Header = () => {
     return (
